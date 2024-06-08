@@ -1,3 +1,3 @@
-LensHub: A Dynamic Sidebar Menu for Photography Portfolios
+Pixel Paraside: A Dynamic Sidebar Menu for Photography Portfolios
 
 A project on HTML & CSS
