@@ -1,3 +1,3 @@
-# Photography-Sidebar-Menu
+LensHub: A Dynamic Sidebar Menu for Photography Portfolios
 
 A project on HTML & CSS
